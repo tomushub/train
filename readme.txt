@@ -8,3 +8,4 @@ $ javac Express.java Ticketinfo.java TicketManage.java
 $ java TicketManage
 
 でできるはず。課題自体なにがしたいかわからないから、こんな感じでしかできんかったわ
+ファイルダウンロードするには、上の緑のところ[clone or download]をクリックね。
