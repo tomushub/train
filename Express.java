@@ -4,8 +4,10 @@ import java.lang.*;
 
 public class Express extends Ticketinfo{
   int seat;
-  public int getFare(){
+  String message2;
+  public String getFare(){
     fare = fare + seat;
-    return fare;
+    message2 = fare + "円";
+    return message2;
   }
 }
